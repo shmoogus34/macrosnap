@@ -5,7 +5,6 @@
   "private": true,
   "description": "MacroSnap - AI-powered food tracker that estimates calories and macronutrients instantly from a photo.",
   "scripts": {
-    "build": "echo 'MacroSnap build ready'",
     "start": "npx serve ."
   }
 }
