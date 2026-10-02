@@ -1,0 +1,22 @@
+{
+  "name": "MacroSnap",
+  "short_name": "MacroSnap",
+  "description": "A minimalist, AI-powered food tracker that estimates calories and macronutrients instantly from a photo to help you reach your nutrition goals with ease.",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "scope": "/"
+}
